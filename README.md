@@ -2,7 +2,9 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/KubrickRubrik)  
+[![codewars](https://www.codewars.com/users/KubrickRubrik/badges/small)](https://www.codewars.com/users/KubrickRubrik) 
+
+![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 [![KubrickRubrik GitHub stats](https://github-readme-stats.vercel.app/api?username=KubrickRubrik)](https://github.com/anuraghazra/github-readme-stats)
 
