@@ -2,6 +2,12 @@
 ![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&top_languages=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KubrickRubrik&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KubrickRubrik&theme=solarized_dark)
 <!--
 **KubrickRubrik/KubrickRubrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
