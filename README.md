@@ -2,6 +2,8 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik)
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/KubrickRubrik)  
+
 [![KubrickRubrik GitHub stats](https://github-readme-stats.vercel.app/api?username=KubrickRubrik)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
