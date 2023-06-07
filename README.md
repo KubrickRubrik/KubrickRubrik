@@ -1,4 +1,3 @@
-### ⚡ Stats:
 <p>
 <img width="51%"  src="https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=nightowl" />
 <img width="48.5%"   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=nightowl" />
