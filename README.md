@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<p>
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=KubrickRubrik&theme=city_lights&count_private=true&hide_border=true&hide_title=true&show_icons=true" />
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubrickRubrik&layout=compact&langs_count=6&hide=sass,makefile,shell,mustache&hide_border=true&theme=city_lights" />
-</p> 
-
 ![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 
