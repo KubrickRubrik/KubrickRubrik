@@ -1,6 +1,11 @@
+#### ⚡ Stats:
+<img width="50%" height="200" src="https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=nightowl" />
 
-<!--
-**KubrickRubrik/KubrickRubrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="48%" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=nightowl" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=nightowl)
+
+
 
 Here are some ideas to get you started:
 
@@ -11,19 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
-
-
-![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
-![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&top_languages=true)
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KubrickRubrik&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KubrickRubrik&theme=solarized_dark)
