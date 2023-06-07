@@ -1,13 +1,16 @@
-#### ⚡ Stats:
-<img width="50%" height="200" src="https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=nightowl" />
+### ⚡ Stats:
+<p>
+<img width="51%"  src="https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=nightowl" />
+<img width="48.5%"   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=nightowl" />
+</p>
 
-<img width="48%" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=nightowl" />
+<img width="199%" height = 300  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=nightowl" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=nightowl)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=nightowl) -->
 
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -  Fun fact: ...
--->
+ -->
