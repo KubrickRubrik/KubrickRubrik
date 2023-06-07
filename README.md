@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+[![KubrickRubrik GitHub stats](https://github-readme-stats.vercel.app/api?username=KubrickRubrik)](https://github.com/KubrickRubrik/github-readme-stats)
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark) -->
 
-![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!--
 **KubrickRubrik/KubrickRubrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
