@@ -1,14 +1,4 @@
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark) -->
-<p>
-  ![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&top_languages=true)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=solarized_dark)
-</p>  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KubrickRubrik&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KubrickRubrik&theme=solarized_dark)
 <!--
 **KubrickRubrik/KubrickRubrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
+![Codewars](https://github.r2v.ch/codewars?user=KubrickRubrik&top_languages=true)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KubrickRubrik&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KubrickRubrik&theme=solarized_dark)
