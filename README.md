@@ -1,6 +1,6 @@
 <p>
-<img width="51%"  src="https://github.r2v.ch/codewars?user=KubrickRubrik&top_languages=true&stroke=%23b362ff&theme=nightowl" />
-<img width="48.5%"   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=nightowl" />
+<img width="53%"  src="https://github.r2v.ch/codewars?user=KubrickRubrik&top_languages=true&stroke=%23b362ff&theme=nightowl" />
+<img width="46.5%"   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KubrickRubrik&theme=nightowl" />
 </p>
  
 <img width="199%" height = 300  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KubrickRubrik&theme=nightowl" />
